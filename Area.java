@@ -19,4 +19,3 @@ System.out.println("area is:"+(r1.length*r1.height));
 }
 }
 
-djgjsaksakdk
